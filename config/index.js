@@ -39,9 +39,9 @@ export const config = {
     /** 天气相关 */
 
     // 所在省份
-    PROVINCE: "广东",
+    PROVINCE: "安徽",
     // 所在城市
-    CITY: "惠州",
+    CITY: "合肥",
 
     /** 重要节日相关 */
 
@@ -53,9 +53,9 @@ export const config = {
      */
     FESTIVALS: [
       {"type": "生日", "name": "宝儿", "year": "2003", "date": "05-22"},
-      {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
-      {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
-      {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
+//       {"type": "节日", "name": "结婚纪念日", "year": "2020", "date": "09-03"},
+//       {"type": "生日", "name": "李四", "year": "1996", "date": "09-31"},
+//       {"type": "节日", "name": "被搭讪纪念日", "year": "2021", "date": "09-01"},
     ],
 
     /**
